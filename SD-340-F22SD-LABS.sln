@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SD-340-F22SD-LABS", "SD-340-F22SD-LABS.csproj", "{A902BAB8-6BFE-4A12-9B84-EFD488B2B8C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SD-340-F22SD-LABS", "SD-340-F22SD-LABS.csproj", "{A902BAB8-6BFE-4A12-9B84-EFD488B2B8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransitAPI", "..\TransitAPI\TransitAPI.csproj", "{538EBB22-F3FA-4117-8F8A-63EA074C187A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A902BAB8-6BFE-4A12-9B84-EFD488B2B8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A902BAB8-6BFE-4A12-9B84-EFD488B2B8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A902BAB8-6BFE-4A12-9B84-EFD488B2B8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538EBB22-F3FA-4117-8F8A-63EA074C187A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538EBB22-F3FA-4117-8F8A-63EA074C187A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538EBB22-F3FA-4117-8F8A-63EA074C187A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538EBB22-F3FA-4117-8F8A-63EA074C187A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
